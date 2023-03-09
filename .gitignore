@@ -58,3 +58,7 @@ yarn-debug.log*
 # TODO Comment out these rules if you are OK with secrets being uploaded to the repo
 config/initializers/secret_token.rb
 config/secrets.yml
+
+# I need this to change Ruby versions so I'm ignoring the file I've added to save the command
+
+/ruby-version.txt
