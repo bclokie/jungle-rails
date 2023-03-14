@@ -53,6 +53,15 @@ ActiveRecord::Schema.define(version: 2023_03_13_163412) do
     t.index ["category_id"], name: "index_products_on_category_id"
   end
 
+  create_table "sales", force: :cascade do |t|
+    t.string "name"
+    t.integer "percent_off"
+    t.date "starts_on"
+    t.date "ends_on"
+    t.datetime "created_at", precision: 6, null: false
+    t.datetime "updated_at", precision: 6, null: false
+  end
+
   create_table "users", force: :cascade do |t|
     t.string "name"
     t.string "email"
