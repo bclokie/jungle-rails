@@ -13,11 +13,11 @@ A mini e-commerce application built with Rails 6.1 for purposes of teaching Rail
 7. Put Stripe (test) keys into appropriate .env vars
 8. Run `bin/rails s -b 0.0.0.0` to start the server
 
-Registering for Jungle:
+## Registering for Jungle:
 
 !["gif of register/logout/login"](https://github.com/bclokie/jungle-rails/SignUpLogoutLogin.gif)
 
-Website Demo:
+## Website Demo:
 
 !["gif of website demo"](https://github.com/bclokie/jungle-rails/WebsiteDemo.gif)
 
