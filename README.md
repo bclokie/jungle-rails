@@ -15,11 +15,11 @@ A mini e-commerce application built with Rails 6.1 for purposes of teaching Rail
 
 Registering for Jungle:
 
-!["gif of register/logout/login"](https://github.com/bclokie/jungle-rails/SignUpLogoutLogin.gif?raw=true)
+!["gif of register/logout/login"](https://github.com/bclokie/jungle-rails/SignUpLogoutLogin.gif)
 
 Website Demo:
 
-!["gif of website demo"](https://github.com/bclokie/jungle-rails/WebsiteDemo.gif?raw=true)
+!["gif of website demo"](https://github.com/bclokie/jungle-rails/WebsiteDemo.gif)
 
 ## Database
 
